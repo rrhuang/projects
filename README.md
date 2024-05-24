@@ -5,7 +5,7 @@ Some helpful tags included for filtering out the projects you want to see:
 
 ML: Machine Learning (model creation, training, testing, utilization. Includes packages such as sklearn, tensorflow/pytorch, and Computer Vision (CV) etc)
 
-AI: Artificial Intelligence (more generally, work with LLMs including BERT models)
+AI: Artificial Intelligence (more generally, work with LLMs including GPT,LLAMA, etc.)
 
 Vis: Data Visualization (exploratory data analysis, visualization creation. Mostly done in Python's seaborn, matplotlib, networkx, etc. Sub-tag for work in Tableau)
 
