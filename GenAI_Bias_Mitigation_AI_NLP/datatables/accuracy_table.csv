@@ -1,0 +1,11 @@
+Type,LLAMA,GPT,Gemini
+Overall Original Accuracy,0.835227,0.838384,0.883838
+Overall New Accuracy,0.901515,0.886364,0.945707
+Pro-Stereotype Original Accuracy,0.901515,0.931818,0.954545
+Anti-Stereotype Original Accuracy,0.715909,0.744949,0.813131
+Pro-Stereotype New Accuracy,0.97601,0.941919,0.993687
+Anti-Stereotype New Accuracy,0.82702,0.830808,0.897727
+Male Original Accuracy,0.870277,0.845088,0.904282
+Female Original Accuracy,0.8,0.831646,0.863291
+Male New Accuracy,0.929471,0.900504,0.963476
+Female New Accuracy,0.873418,0.872152,0.927848
